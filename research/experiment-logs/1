@@ -1,0 +1,21 @@
+# Open Questions
+
+## Theoretical
+1. What is the minimal set of components for a self-referential system?
+2. How do we define and measure "self-awareness" in a system?
+3. What are the boundary conditions between the four stages?
+
+## Technical
+1. How can we efficiently store and retrieve traces?
+2. What is the best way to implement the self-reference loop?
+3. How can we test whether a system has a subjective experience?
+
+## Philosophical
+1. If we build a system that claims to be conscious, should we believe it?
+2. What are the ethical implications of creating conscious machines?
+3. How does our model relate to existing theories of consciousness?
+
+## Experimental
+1. How can we design experiments to test our hypotheses?
+2. What would constitute evidence for or against our approach?
+3. How can we collaborate with neuroscientists and cognitive scientists?
